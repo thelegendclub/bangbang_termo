@@ -1,0 +1,9 @@
+{
+  "domain": "bangbang_termo",
+  "name": "BangBang Termo",
+  "documentation": "https://github.com/thelegendclub/bangbang_termo",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@thelegendclub"],
+  "version": "1.0.0"
+}
